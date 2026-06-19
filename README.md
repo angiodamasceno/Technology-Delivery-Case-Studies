@@ -25,23 +25,24 @@ Os cases apresentados demonstram desafios enfrentados, estratégias adotadas, de
 
 ## Cases de Sucesso
 
-### Cavalleras
-Liderança técnica e operacional em um projeto de jogo digital, mitigando riscos críticos de fornecedores externos e garantindo a entrega dentro da janela estratégica de lançamento.
+* [Case 01 - Cavalleras](CASE-01-Cavalleras.md)
+  Liderança técnica e operacional em um projeto de jogo digital, mitigando riscos críticos de fornecedores externos e garantindo a entrega dentro da janela estratégica de lançamento.
 
-### Smart Build
-Recuperação arquitetural de uma plataforma em produção, reduzindo débitos técnicos, aumentando a estabilidade do produto e restaurando a confiança dos stakeholders.
+* Case 02 - Smart Build
+  Recuperação arquitetural de uma plataforma em produção, reduzindo débitos técnicos, aumentando a estabilidade do produto e restaurando a confiança dos stakeholders.
 
-### Start Up
-Transformação de uma ideia inicial em um produto digital estruturado, conduzindo Product Discovery, definição de roadmap, MVP e validação de mercado.
+* Case 03 - Startup Marketplace
+  Transformação de uma ideia inicial em um produto digital estruturado, conduzindo Product Discovery, definição de roadmap, MVP e validação de mercado.
 
-### Codelabs
-Condução de uma transformação ágil e operacional, reestruturando processos, implantando métricas e recuperando projetos em atraso.
+* Case 04 - Codelabs
+  Condução de uma transformação ágil e operacional, reestruturando processos, implantando métricas e recuperando projetos em atraso.
 
-### Home Fusions
-Recuperação de um projeto imobiliário com mais de um ano de atraso, envolvendo reestruturação de escopo, banco de dados, integrações e gestão de stakeholders.
+* Case 05 - Home Fusions
+  Recuperação de um projeto imobiliário com mais de um ano de atraso, envolvendo reestruturação de escopo, banco de dados, integrações e gestão de stakeholders.
 
-### Mortgage AI Platform
-Reposicionamento estratégico de uma solução baseada em Inteligência Artificial para o mercado de mortgages nos Estados Unidos.
+* Case 06 - Mortgage AI Platform
+  Reposicionamento estratégico de uma solução baseada em Inteligência Artificial para o mercado de mortgages nos Estados Unidos, transformando um projeto sem direção clara em uma plataforma escalável de CRM e automação documental.
+
 
 ## Objetivo
 
