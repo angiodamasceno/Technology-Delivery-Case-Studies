@@ -29,7 +29,7 @@ Os cases apresentados demonstram desafios enfrentados, estratégias adotadas, de
 
 - [Case 03 – Home Fusions](CASE-03-Home-Fusions.md) – Recuperação de um projeto imobiliário com mais de um ano de atraso, envolvendo reestruturação de escopo, banco de dados, integrações e gestão de stakeholders.
 
-- Case 04 – Startup Marketplace *(Em construção)*
+- [Case 04 – Mortgage AI Platform](CASE-04-Mortgage-AI.md) – Reposicionamento estratégico de uma solução baseada em Inteligência Artificial para o mercado de mortgages nos Estados Unidos, transformando um projeto sem direção clara em uma plataforma escalável de CRM e automação documental.
 
 - Case 05 – Codelabs *(Em construção)*
 
