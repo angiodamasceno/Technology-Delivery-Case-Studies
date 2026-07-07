@@ -31,6 +31,6 @@ Os cases apresentados demonstram desafios enfrentados, estratégias adotadas, de
 
 - [Case 04 – Mortgage AI Platform](CASE-04-Mortgage-AI.md) – Reposicionamento estratégico de uma solução baseada em Inteligência Artificial para o mercado de mortgages nos Estados Unidos, transformando um projeto sem direção clara em uma plataforma escalável de CRM e automação documental.
 
-- - [Case 05 – Transformação Operacional de uma Software House](CASO-05-Transformacao-Operacional-Software-House.md) – Estruturação completa da operação de Delivery, implantação de governança, práticas ágeis, indicadores de desempenho, documentação, qualidade e sistema de suporte.
+- [Case 05 – Transformação Operacional de uma Software House](CASO-05-Transformacao-Operacional-Software-House.md) – Estruturação completa da operação de Delivery, implantação de governança, práticas ágeis, indicadores de desempenho, documentação, qualidade e sistema de suporte.
 
 - Case 06 – Mortgage AI Platform *(Em construção)*
