@@ -33,4 +33,4 @@ Os cases apresentados demonstram desafios enfrentados, estratégias adotadas, de
 
 - [Case 05 – Transformação Operacional de uma Software House](CASO-05-Transformacao-Operacional-Software-House.md) – Estruturação completa da operação de Delivery, implantação de governança, práticas ágeis, indicadores de desempenho, documentação, qualidade e sistema de suporte.
 
-- Case 06 – Mortgage AI Platform *(Em construção)*
+- [Case 06 – Startup Marketplace](CASO-06-Startup-Marketplace.md) – Estruturação de uma startup desde a fase de Product Discovery até a definição do MVP, roadmap, backlog e estratégia de evolução do produto.
