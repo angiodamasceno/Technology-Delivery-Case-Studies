@@ -1,0 +1,216 @@
+# Case 05 – Transformação Operacional de uma Software House Internacional
+
+## Resumo Executivo
+
+Assumi a gestão operacional de uma software house internacional especializada no desenvolvimento de soluções digitais. A organização enfrentava baixa maturidade em seus processos, ausência de governança, retrabalho constante e pouca previsibilidade nas entregas.
+
+Meu principal desafio foi estruturar toda a operação de Delivery, implantando processos, práticas ágeis, indicadores de desempenho, critérios de qualidade e mecanismos de governança capazes de sustentar um crescimento organizado da empresa.
+
+Ao longo da transformação, a operação passou a trabalhar com uma estrutura baseada em métricas, papéis definidos e processos padronizados, aumentando significativamente a previsibilidade das entregas e a eficiência operacional.
+
+---
+
+# Contexto
+
+Ao assumir a operação encontrei uma estrutura composta por:
+
+- 6 Desenvolvedores
+- 1 UX/UI Designer
+- Nenhum QA dedicado
+- Nenhum Product Owner
+- Nenhum Product Manager
+- Ausência de cultura DevOps
+
+Mais preocupante que a estrutura da equipe era a ausência de processos.
+
+A empresa desenvolvia produtos sem um modelo operacional definido, resultando em retrabalho, baixa qualidade, dificuldades de comunicação e falta de previsibilidade.
+
+---
+
+# Principais Desafios
+
+Durante o diagnóstico inicial foram identificados diversos problemas estruturais:
+
+## Governança
+
+- Ausência de metodologia para gestão de projetos.
+- Ausência de papéis e responsabilidades claramente definidos.
+- Desenvolvimento conduzido de forma reativa.
+
+## Produto
+
+- Processos de criação de produtos totalmente informais.
+- Backlogs desorganizados.
+- Ausência de documentação funcional.
+
+## Desenvolvimento
+
+- Alto índice de retrabalho.
+- Baixa qualidade das entregas.
+- Ausência de critérios técnicos de qualidade.
+
+## Qualidade
+
+- Não existia processo formal de testes.
+- Não havia critérios de aceite para homologação.
+
+## Suporte
+
+- Não existia uma estrutura organizada de atendimento aos clientes.
+- Demandas eram tratadas de forma improvisada.
+
+## Gestão
+
+- Ausência de indicadores de desempenho.
+- Inexistência de dashboards executivos.
+- Nenhum mecanismo de acompanhamento da capacidade operacional.
+
+---
+
+# Meu Papel
+
+Atuei como responsável pela estruturação da operação de Delivery, conduzindo a transformação dos processos organizacionais e criando um modelo operacional voltado à previsibilidade e à melhoria contínua.
+
+Minhas responsabilidades incluíram:
+
+- Estruturação da governança operacional.
+- Implantação das práticas ágeis.
+- Organização dos fluxos de trabalho.
+- Definição de indicadores.
+- Estruturação da documentação dos projetos.
+- Implantação do fluxo de suporte.
+- Gestão dos stakeholders internos.
+- Coordenação da equipe de desenvolvimento.
+- Implantação de processos de qualidade.
+
+---
+
+# Estratégia de Transformação
+
+A transformação foi conduzida em cinco pilares estratégicos.
+
+## 1. Governança
+
+Foi implantado um modelo estruturado de gestão baseado em práticas ágeis, contemplando:
+
+- Scrum
+- Kanban
+- Cerimônias Ágeis
+- Planejamento das Sprints
+- Sprint Reviews
+- Retrospectivas
+- Daily Meetings
+- Refinamento contínuo do Backlog
+
+---
+
+## 2. Gestão de Projetos
+
+Foi estruturado um novo modelo de gestão envolvendo:
+
+- Organização do Backlog.
+- Definição das prioridades.
+- Gestão de riscos.
+- Padronização dos processos de desenvolvimento.
+- Definição clara de papéis e responsabilidades.
+
+---
+
+## 3. Qualidade
+
+Para aumentar a confiabilidade das entregas foram implantados:
+
+- Critérios de aceite.
+- Processo formal de documentação.
+- Padronização dos requisitos.
+- Fluxo de validação das entregas.
+
+---
+
+## 4. Suporte ao Cliente
+
+Foi criado um processo estruturado de suporte, incluindo um sistema interno para registro, acompanhamento e priorização das solicitações dos clientes.
+
+Essa iniciativa trouxe maior organização ao atendimento e melhor integração entre as demandas de suporte e o planejamento das equipes de desenvolvimento.
+
+---
+
+## 5. Gestão Orientada por Dados
+
+Para apoiar a tomada de decisão foram implantados indicadores operacionais como:
+
+- Lead Time
+- Cycle Time
+- Throughput
+- Work In Progress (WIP)
+
+Também foram desenvolvidos dashboards executivos para acompanhamento contínuo da operação e identificação de gargalos.
+
+---
+
+# Resultados
+
+Durante minha atuação foram alcançados importantes resultados organizacionais:
+
+- Estruturação completa da operação de Delivery.
+- Implantação de um modelo de governança baseado em práticas ágeis.
+- Organização e priorização dos backlogs.
+- Implantação de processos formais de documentação.
+- Criação de critérios de qualidade para as entregas.
+- Implantação de indicadores de desempenho.
+- Desenvolvimento de dashboards executivos para acompanhamento da operação.
+- Criação de um sistema estruturado de suporte ao cliente.
+- Definição clara de papéis e responsabilidades.
+- Aumento da previsibilidade operacional durante minha gestão.
+- Redução significativa do retrabalho.
+- Evolução da maturidade organizacional dos processos de desenvolvimento.
+
+---
+
+# Competências Demonstradas
+
+## Liderança
+
+- Liderança de Equipes
+- Gestão de Mudanças
+- Comunicação Executiva
+- Gestão de Stakeholders
+
+## Gestão
+
+- Project Management
+- Delivery Management
+- Agile Leadership
+- Gestão Operacional
+
+## Processos
+
+- Governança
+- Scrum
+- Kanban
+- Gestão de Backlog
+- Melhoria Contínua
+
+## Métricas
+
+- KPIs
+- Lead Time
+- Cycle Time
+- Throughput
+- WIP
+- Dashboards
+
+## Qualidade
+
+- Quality Assurance
+- Critérios de Aceite
+- Documentação Técnica
+- Documentação Funcional
+
+---
+
+# Principais Aprendizados
+
+Este projeto demonstrou que a maturidade de uma operação de desenvolvimento depende menos das ferramentas utilizadas e mais da existência de processos consistentes, papéis bem definidos e uma cultura de melhoria contínua.
+
+Ao estruturar a governança, organizar os fluxos de trabalho e estabelecer indicadores de desempenho, foi possível transformar uma operação reativa em um ambiente muito mais previsível, colaborativo e orientado à entrega de valor.
